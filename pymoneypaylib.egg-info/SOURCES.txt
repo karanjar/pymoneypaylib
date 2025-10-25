@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+setup.cfg
+pymoneypaylib.egg-info/PKG-INFO
+pymoneypaylib.egg-info/SOURCES.txt
+pymoneypaylib.egg-info/dependency_links.txt
+pymoneypaylib.egg-info/top_level.txt
+src/__init__.py
+src/core.py
